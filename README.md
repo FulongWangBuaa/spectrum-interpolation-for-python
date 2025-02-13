@@ -1,4 +1,4 @@
-# spectrum interpolation for python
+# Spectrum interpolation for python
 The Python implementation of spectrum interpolation.
 
 # Quick start
