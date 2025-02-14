@@ -3,7 +3,7 @@ The Python implementation of spectrum interpolation.
 
 # Quick start
 ```python
-raw = men.io.read_raw_fif(raw_path,preload=True)
+raw = mne.io.read_raw_fif(raw_path,preload=True)
 Fl = [50]
 dftbandwidth = [2]
 dftneighbourwidth = [2]
